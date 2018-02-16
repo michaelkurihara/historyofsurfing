@@ -4,6 +4,7 @@ h1, h2 {
   color: #1720ff;
   font-family: Julee, Serif;
   text-align: left;
+  margin-left: 15px;
 }
 
 
@@ -11,6 +12,7 @@ p {
   color: #fffcfe;
   font-family: Kurale, serif;
   font-size: large;
+  margin: 25px 25px;
 }
 
 html {
@@ -41,4 +43,7 @@ html {
 .surfer h2 {
   color: #0cff89;
   text-align: center;
+  padding-top: 0px;
+  margin-top: 0px;
+  font-weight: bolder;
 }
