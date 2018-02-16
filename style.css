@@ -1,0 +1,44 @@
+
+
+h1, h2 {
+  color: #1720ff;
+  font-family: Julee, Serif;
+  text-align: left;
+}
+
+
+p {
+  color: #fffcfe;
+  font-family: Kurale, serif;
+  font-size: large;
+}
+
+html {
+  background-image: url(https://static.pexels.com/photos/514753/pexels-photo-514753.jpeg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.famous {
+  position: relative;
+  text-align: center;
+}
+
+.surfer {
+  display: inline-block;
+  margin: 10px 30px;
+}
+
+.surfer img {
+  width: 200px;
+}
+
+.surfer h2 {
+  color: #0cff89;
+  text-align: center;
+}
